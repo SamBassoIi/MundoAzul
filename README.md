@@ -14,5 +14,28 @@ Trabalho de Conclusão de Curso (TCC) desenvolvido no curso de Desenvolvimento d
 * **Gestão de Usuários:** Cadastro seguro e formulários de contato interativos.
 * **Design Responsivo:** Navegação fluida em dispositivos móveis, tablets e desktops.
 
+## 📸 Telas do Sistema
+
+### Página Inicial
+![Página Inicial](mundoazul2.png)
+
+### Painel de Acessibilidade
+![Painel de Acessibilidade](mundoazul3.png)
+
+### Sobre o TEA
+![Sobre o TEA](mundoazul4.png)
+
+### Atividade Interativas
+![Atividades Interativas](mundoazul5.png)
+
+### Área do Blog e Artigos
+![Área do Blog](mundoazul6.png)
+
+### Catálogo de Vídeos
+![Catálogo de Vídeos](mundoazul7.png)
+
+### Tela de Login
+![Tela de Login](mundoazul8.png)
+
 ## 👨‍💻 Autores
 Projeto desenvolvido em equipe multidisciplinar. Minha atuação principal envolveu a arquitetura de software, desenvolvimento da interface e integração de banco de dados.
