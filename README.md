@@ -17,25 +17,25 @@ Trabalho de Conclusão de Curso (TCC) desenvolvido no curso de Desenvolvimento d
 ## 📸 Telas do Sistema
 
 ### Página Inicial
-![Página Inicial](mundoazul2.png)
+![Página Inicial](imagens/mundoazul2.png)
 
 ### Painel de Acessibilidade
-![Painel de Acessibilidade](mundoazul3.png)
+![Painel de Acessibilidade](imagens/mundoazul3.png)
 
 ### Sobre o TEA
-![Sobre o TEA](mundoazul4.png)
+![Sobre o TEA](imagens/mundoazul4.png)
 
 ### Atividade Interativas
-![Atividades Interativas](mundoazul5.png)
+![Atividades Interativas](imagens/mundoazul5.png)
 
 ### Área do Blog e Artigos
-![Área do Blog](mundoazul6.png)
+![Área do Blog](imagens/mundoazul6.png)
 
 ### Catálogo de Vídeos
-![Catálogo de Vídeos](mundoazul7.png)
+![Catálogo de Vídeos](imagens/mundoazul7.png)
 
 ### Tela de Login
-![Tela de Login](mundoazul8.png)
+![Tela de Login](imagens/mundoazul8.png)
 
 ## 👨‍💻 Autores
 Projeto desenvolvido em equipe multidisciplinar. Minha atuação principal envolveu a arquitetura de software, desenvolvimento da interface e integração de banco de dados.
